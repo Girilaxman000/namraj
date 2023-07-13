@@ -2,12 +2,12 @@ import { getApps, initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC1YKrtY7KMI1jlsRurUx1g4-scWiownLQ",
-  authDomain: "lending-tree-loan-month-3.firebaseapp.com",
-  projectId: "lending-tree-loan-month-3",
-  storageBucket: "lending-tree-loan-month-3.appspot.com",
-  messagingSenderId: "962060411269",
-  appId: "1:962060411269:web:8e9108ab86136d8cd0e4ec",
+  apiKey: "AIzaSyDkxuCJbFwMlHF5LtKFqmvbin3Wi2y6-Tk",
+  authDomain: "lending-users-month-2.firebaseapp.com",
+  projectId: "lending-users-month-2",
+  storageBucket: "lending-users-month-2.appspot.com",
+  messagingSenderId: "760803826641",
+  appId: "1:760803826641:web:e169c9660d201c84d29ef0",
 };
 
 // Initialize Firebase
